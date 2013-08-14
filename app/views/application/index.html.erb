@@ -1,0 +1,52 @@
+<div class="top container_12">
+  MAD HOT VOCAB
+</div>
+
+<div class="clear"></div>
+
+<div class="grid_2 suffix_8 nav_left nav">
+  ABOUT
+</div>
+
+<div class="grid_2 nav_right nav">
+  LOG IN
+</div>
+
+<div class="clear"></div>
+
+<div class="grid_7 copy">
+  <div class="slogan-top">
+    LEARN WORDS.
+  </div>
+
+  <div class="clear"></div>
+
+  <div class="prefix_4 grid_3 slogan-bottom">
+    For real.
+  </div>
+  <div class="clear"></div>
+  <div class="prefix_2 grid_5 slogan-bottom">
+    Without definitions.
+  </div>
+</div>
+
+<div class="grid_5">
+  <img src="/assets/basket-placeholder.jpg"/>
+</div>
+
+<div class="clear"></div>
+
+<div class="grid_12" id="signup">
+  <%= form_tag("/application/create_user", method: "post") do %>
+    <%= label_tag(:email, "Email:") %>
+    <%= text_field_tag(:email) %>
+    <br/>
+    <%= label_tag(:password, "Password:") %>
+    <%= text_field_tag(:password) %>
+    <br/>
+    <%= label_tag(:password_confirmation, "Password confirmation:") %>
+    <%= text_field_tag(:password_confirmation) %>
+    <br/>
+    <%= submit_tag("Get mad and hot!", :id => :submit) %>
+  <% end %>
+</div>

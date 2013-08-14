@@ -1,0 +1,5940 @@
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: application
+  conjugates: applications
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: application'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: condition
+  conjugates: conditioned,conditioning,conditions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: condition'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: feature
+  conjugates: featured,featureless,features,featuring
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: feature'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: market
+  conjugates: marketed,marketing,markets
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: market'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: analysis
+  conjugates: analyses,analyze
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: analysis'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: benefit
+  conjugates: benefited,benefiting,benefits,benefitted,benefitting
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: benefit'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: central
+  conjugates: centrally,centrals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: central'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: contain
+  conjugates: contained,containing,contains
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: contain'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: economic
+  conjugates: economics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: economic'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: effect
+  conjugates: effected,effecting,effects
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: effect'
+  bundle_id: 0
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: media -> [medium]
+  conjugates: medias
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: media -> [medium]'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: minute
+  conjugates: minuted,minutely,minuteness,minuter,minutes,minutest,minuting
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: minute'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: weather
+  conjugates: weathered,weathering,weathers
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: weather'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: affect
+  conjugates: affected,affectedly,affecting,affectingly,affects
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: affect'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: basis
+  conjugates: bases,base
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: basis'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: bear
+  conjugates: bearing,bearing,bearish,bearishly,bearishness,bearlike,bears,bore,bore,borne
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: bear'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: century
+  conjugates: centuries
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: century'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: component
+  conjugates: components
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: component'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conduct
+  conjugates: conducted,conducting,conducts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conduct'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: corporate
+  conjugates: corporately
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: corporate'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: degree
+  conjugates: degrees
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: degree'
+  bundle_id: 1
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: enterprise
+  conjugates: enterprises
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: enterprise'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: environmental
+  conjugates: environmentally
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: environmental'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: essential
+  conjugates: essentially,essentials
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: essential'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: exact
+  conjugates: exacted,exacter,exactest,exacting,exactingly,exactly,exactness,exacts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: exact'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: factor
+  conjugates: factored,factoring,factors
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: factor'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: implement
+  conjugates: implemented,implementing,implements
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: implement'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: primary
+  conjugates: primaries,primarily
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: primary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: procedure
+  conjugates: procedures
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: procedure'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: protein
+  conjugates: proteins
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: protein'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: relation
+  conjugates: relations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: relation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: relative
+  conjugates: relatively,relatives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: relative'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: resolution
+  conjugates: resolutions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: resolution'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: significant
+  conjugates: significantly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: significant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: via
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: via'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: virtual
+  conjugates: virtually
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: virtual'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: accurate
+  conjugates: accurately,accurateness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: accurate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: acquire
+  conjugates: acquired,acquires,acquiring
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: acquire'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: adobe
+  conjugates: adobes
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: adobe'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: appeal
+  conjugates: appealed,appealing,appealingly,appeals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: appeal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: architecture
+  conjugates: architectures
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: architecture'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: arise
+  conjugates: arisen,arises,arising,arose
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: arise'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: array
+  conjugates: arrayed,arraying,arrays
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: array'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: aspect
+  conjugates: aspects
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: aspect'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: assess
+  conjugates: assessed,assesses,assessing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: assess'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: asset
+  conjugates: assets
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: asset'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: atom
+  conjugates: atoms
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: atom'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: attribute
+  conjugates: attributed,attributes,attributing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: attribute'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: brief
+  conjugates: briefed,briefer,briefest,briefing,briefing,briefly,briefness,briefs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: brief'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: canon
+  conjugates: canons
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: canon'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: capacity
+  conjugates: capacities
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: capacity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: cast
+  conjugates: casting,casting,casts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: cast'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: characteristic
+  conjugates: characteristically,characteristics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: characteristic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: coin
+  conjugates: coined,coining,coins
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: coin'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: compile
+  conjugates: compiled,compiles,compiling
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: compile'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: consideration
+  conjugates: considerations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: consideration'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: consult
+  conjugates: consulted,consulting,consults
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: consult'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: contemporary
+  conjugates: contemporaries
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: contemporary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: continuous
+  conjugates: continuously
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: continuous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: contractor
+  conjugates: contractors
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: contractor'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: convention
+  conjugates: conventions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: convention'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: correspond
+  conjugates: corresponded,corresponding,correspondingly,corresponds
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: correspond'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: counter
+  conjugates: countered,countering,counters
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: counter'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: criterion
+  conjugates: criteria,criterions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: criterion'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: domestic
+  conjugates: domestically,domestics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: domestic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: editorial
+  conjugates: editorially,editorials
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: editorial'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: employ
+  conjugates: employed,employing,employs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: employ'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: exceed
+  conjugates: exceeded,exceeding,exceedingly,exceeds
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: exceed'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: exclusive
+  conjugates: exclusively,exclusiveness,exclusives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: exclusive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: exhibit
+  conjugates: exhibited,exhibiting,exhibits
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: exhibit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: generic
+  conjugates: generically,generics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: generic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: genetic
+  conjugates: genetically,genetics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: genetic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: import
+  conjugates: imported,importing,imports
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: import'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: infrastructure
+  conjugates: infrastructures
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: infrastructure'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: initiative
+  conjugates: initiatives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: initiative'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: instance
+  conjugates: instanced,instances,instancing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: instance'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: joint
+  conjugates: jointed,jointing,jointly,joints
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: joint'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: maintenance
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: maintenance'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: objective
+  conjugates: objectively,objectiveness,objectives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: objective'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: patent
+  conjugates: patented,patenting,patently,patents
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: patent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: phase
+  conjugates: phased,phases,phasing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: phase'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: physician
+  conjugates: physicians
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: physician'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: principle
+  conjugates: principled,principles
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: principle'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: reasonable
+  conjugates: reasonableness,reasonably
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: reasonable'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: reduction
+  conjugates: reductions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: reduction'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: relevant
+  conjugates: relevantly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: relevant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: revenue
+  conjugates: revenues
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: revenue'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: revision
+  conjugates: revisions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: revision'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: rural
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: rural'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: seminar
+  conjugates: seminars
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: seminar'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: substance
+  conjugates: substances
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: substance'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: tone
+  conjugates: toned,toneless,tonelessly,tones,toning
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: tone'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: universal
+  conjugates: universally,universals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: universal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: urban
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: urban'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: vary
+  conjugates: varied,varies,varying
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: vary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: wholesale
+  conjugates: wholesaled,wholesales,wholesaling
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: wholesale'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: abroad
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: abroad'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: accompany
+  conjugates: accompanied,accompanies,accompanying
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: accompany'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: accordance
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: accordance'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: acknowledge
+  conjugates: acknowledged,acknowledges,acknowledging
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: acknowledge'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: acoustic
+  conjugates: acoustics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: acoustic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: adjustment
+  conjugates: adjustments
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: adjustment'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: advocate
+  conjugates: advocated,advocates,advocating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: advocate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: alter
+  conjugates: altered,altering,alters
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: alter'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ancient
+  conjugates: ancienter,ancientest,anciently,ancientness,ancients
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ancient'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: apparent
+  conjugates: apparently
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: apparent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: binary
+  conjugates: binaries
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: binary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: bound -> [bind]
+  conjugates: bounded,bounding,boundless,boundlessly,boundlessness,bounds
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: bound -> [bind]'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: chronicle
+  conjugates: chronicled,chronicles,chronicling
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: chronicle'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: citation
+  conjugates: citations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: citation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: composition
+  conjugates: compositions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: composition'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: compound
+  conjugates: compounded,compounding,compounds
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: compound'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: construct
+  conjugates: constructed,constructing,constructs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: construct'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: contrast
+  conjugates: contrasted,contrasting,contrasts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: contrast'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: critic
+  conjugates: critics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: critic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: defendant
+  conjugates: defendants
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: defendant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: derive
+  conjugates: derived,derives,deriving
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: derive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: distinguish
+  conjugates: distinguished,distinguishes,distinguishing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: distinguish'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: diverse
+  conjugates: diversely,diverseness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: diverse'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: efficiency
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: efficiency'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: embed
+  conjugates: embedded,embedding,embeds,imbed,imbedded,imbedding,imbeds
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: embed'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: emission
+  conjugates: emissions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: emission'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: entitle
+  conjugates: entitled,entitles,entitling
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: entitle'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: eventual
+  conjugates: eventually
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: eventual'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: excess
+  conjugates: excesses
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: excess'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: expenditure
+  conjugates: expenditures
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: expenditure'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: experimental
+  conjugates: experimentally
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: experimental'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: expertise
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: expertise'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: explicit
+  conjugates: explicitly,explicitness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: explicit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: extensive
+  conjugates: extensively,extensiveness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: extensive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: extent
+  conjugates: extents
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: extent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: fiber
+  conjugates: fibers,fibre,fibres
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: fiber'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: harbor
+  conjugates: harbored,harboring,harbors,harbour,harboured,harbouring,harbours
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: harbor'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: hybrid
+  conjugates: hybrids
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: hybrid'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: identification
+  conjugates: identifications
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: identification'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: impose
+  conjugates: imposed,imposes,imposing,imposing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: impose'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: incentive
+  conjugates: incentives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: incentive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: insight
+  conjugates: insightful,insights
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: insight'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: integrity
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: integrity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: interval
+  conjugates: intervals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: interval'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inventory
+  conjugates: inventoried,inventories,inventorying
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inventory'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: jurisdiction
+  conjugates: jurisdictions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: jurisdiction'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: latter
+  conjugates: latterly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: latter'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: linear
+  conjugates: linearly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: linear'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: memorabilia
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: memorabilia'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: mere
+  conjugates: merely,meres,merest
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: mere'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: methodology
+  conjugates: methodologies
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: methodology'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: migration
+  conjugates: migrations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: migration'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: municipal
+  conjugates: municipally,municipals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: municipal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: numerous
+  conjugates: numerously
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: numerous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: organic
+  conjugates: organically,organics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: organic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: orient
+  conjugates: oriented,orienting,orients
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: orient'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pharmaceutical
+  conjugates: pharmaceuticals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pharmaceutical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: practitioner
+  conjugates: practitioners
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: practitioner'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: precise
+  conjugates: precisely,preciseness,preciser,precisest
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: precise'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: premise
+  conjugates: premised,premises,premising,premiss,premisses
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: premise'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: privilege
+  conjugates: privileged,privileges,privileging
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: privilege'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: projection
+  conjugates: projections
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: projection'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pursue
+  conjugates: pursued,pursues,pursuing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pursue'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: rely
+  conjugates: relied,relies,relying
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: rely'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: render
+  conjugates: rendered,rendering,rendering,renders
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: render'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: scenario
+  conjugates: scenarios
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: scenario'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: sole
+  conjugates: soled,solely,soles,soling
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: sole'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: subsequent
+  conjugates: subsequently
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: subsequent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: substantial
+  conjugates: substantially
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: substantial'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: superior
+  conjugates: superiors
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: superior'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: tend
+  conjugates: tended,tending,tends
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: tend'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: trace
+  conjugates: traced,traces,tracing,tracing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: trace'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: undertake
+  conjugates: undertaken,undertakes,undertaking,undertaking,undertook
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: undertake'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: uniform
+  conjugates: uniformed,uniforming,uniformly,uniforms
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: uniform'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: valve
+  conjugates: valved,valveless,valves,valving
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: valve'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: variation
+  conjugates: variations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: variation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: vast
+  conjugates: vaster,vastest,vastly,vastness,vasts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: vast'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: vessel
+  conjugates: vessels
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: vessel'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: vital
+  conjugates: vitally,vitals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: vital'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: voltage
+  conjugates: voltages
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: voltage'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: warehouse
+  conjugates: warehoused,warehouses,warehousing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: warehouse'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: welfare
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: welfare'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: yield
+  conjugates: yielded,yielding,yields
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: yield'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: absorb
+  conjugates: absorbed,absorbing,absorbingly,absorbs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: absorb'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: acute
+  conjugates: acutely,acuteness,acuter,acutes,acutest
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: acute'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: adjacent
+  conjugates: adjacently
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: adjacent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: analogue
+  conjugates: analog,analog,analogs,analogues
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: analogue'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: appropriation
+  conjugates: appropriations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: appropriation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: apt
+  conjugates: apter,aptest,aptly,aptness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: apt'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: arbitrary
+  conjugates: arbitrarily,arbitrariness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: arbitrary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: assert
+  conjugates: asserted,asserting,asserts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: assert'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: attain
+  conjugates: attained,attaining,attains
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: attain'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: bias
+  conjugates: biased,biases,biasing,biassed,biassing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: bias'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: cease
+  conjugates: ceased,ceaseless,ceaselessly,ceaselessness,ceases,ceasing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: cease'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: civic
+  conjugates: civics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: civic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: clarify
+  conjugates: clarified,clarifies,clarifying
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: clarify'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: colonial
+  conjugates: colonially,colonials
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: colonial'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: colony
+  conjugates: colonies
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: colony'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conform
+  conjugates: conformed,conforming,conforms
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conform'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conjunction
+  conjugates: conjunctions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conjunction'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conscious
+  conjugates: consciously,consciousness,consciousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conscious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: consensus
+  conjugates: consensuses
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: consensus'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: convey
+  conjugates: conveyed,conveying,conveys
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: convey'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conviction
+  conjugates: convictions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conviction'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: correspondence
+  conjugates: correspondences
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: correspondence'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: critique
+  conjugates: critiqued,critiques,critiquing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: critique'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: deem
+  conjugates: deemed,deeming,deems
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: deem'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: defect
+  conjugates: defected,defecting,defects
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: defect'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: deficit
+  conjugates: deficits
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: deficit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: delegate
+  conjugates: delegated,delegates,delegating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: delegate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: depict
+  conjugates: depicted,depicting,depicts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: depict'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: discretion
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: discretion'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: distinction
+  conjugates: distinctions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: distinction'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: dividend
+  conjugates: dividends
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: dividend'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: doctrine
+  conjugates: doctrines
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: doctrine'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ecological
+  conjugates: ecologically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ecological'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ecosystem
+  conjugates: ecosystems
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ecosystem'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: enact
+  conjugates: enacted,enacting,enacts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: enact'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: endeavor
+  conjugates: endeavored,endeavoring,endeavors,endeavour,endeavoured,endeavouring,endeavours
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: endeavor'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: enzyme
+  conjugates: enzymes
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: enzyme'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ethical
+  conjugates: ethically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ethical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: exceptional
+  conjugates: exceptionally
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: exceptional'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: feasible
+  conjugates: feasibility,feasibly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: feasible'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: furthermore
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: furthermore'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: geographical
+  conjugates: geographically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: geographical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: harness
+  conjugates: harnessed,harnesses,harnessing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: harness'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: identical
+  conjugates: identically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: identical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: incur
+  conjugates: incurred,incurring,incurs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: incur'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: indigenous
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: indigenous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inevitable
+  conjugates: inevitability,inevitables,inevitably
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inevitable'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: insist
+  conjugates: insisted,insisting,insistingly,insists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: insist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: instrumental
+  conjugates: instrumentally,instrumentals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: instrumental'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: intensity
+  conjugates: intensities
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: intensity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: intimate
+  conjugates: intimated,intimately,intimates,intimating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: intimate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: legitimate
+  conjugates: legitimated,legitimately,legitimates,legitimating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: legitimate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: literal
+  conjugates: literally,literalness,literals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: literal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: literary
+  conjugates: literariness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: literary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: magnitude
+  conjugates: magnitudes
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: magnitude'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: manuscript
+  conjugates: manuscripts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: manuscript'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: merit
+  conjugates: merited,meriting,merits
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: merit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: modular
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: modular'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: mutation
+  conjugates: mutations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: mutation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: narrative
+  conjugates: narratives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: narrative'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: neglect
+  conjugates: neglected,neglectful,neglectfully,neglectfulness,neglecting,neglects
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: neglect'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: nevertheless
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: nevertheless'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: omit
+  conjugates: omits,omitted,omitting
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: omit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: orbit
+  conjugates: orbited,orbiting,orbits
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: orbit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: organism
+  conjugates: organisms
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: organism'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: overlook
+  conjugates: overlooked,overlooking,overlooks
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: overlook'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: passive
+  conjugates: passively,passiveness,passives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: passive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: perceive
+  conjugates: perceived,perceives,perceiving
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: perceive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: perception
+  conjugates: perceptions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: perception'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: periodic
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: periodic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pesticide
+  conjugates: pesticides
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pesticide'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: phenomenon
+  conjugates: phenomena,phenomenons
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: phenomenon'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: polymer
+  conjugates: polymers
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: polymer'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: preservation
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: preservation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: prospective
+  conjugates: prospectively
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: prospective'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: radius
+  conjugates: radii,radiuses
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: radius'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: redeem
+  conjugates: redeemed,redeeming,redeems
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: redeem'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: regime
+  conjugates: regimes
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: regime'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: regulator
+  conjugates: regulators
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: regulator'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: respiratory
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: respiratory'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: retention
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: retention'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: revelation
+  conjugates: revelations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: revelation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: sanction
+  conjugates: sanctioned,sanctioning,sanctions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: sanction'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: sap
+  conjugates: sapless,sapped,sapping,saps
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: sap'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: selective
+  conjugates: selectively
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: selective'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: shareholder
+  conjugates: shareholders
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: shareholder'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: similarity
+  conjugates: similarities
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: similarity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: simultaneous
+  conjugates: simultaneously
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: simultaneous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: spatial
+  conjugates: spatially
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: spatial'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: subsidiary
+  conjugates: subsidiaries
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: subsidiary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: tactic
+  conjugates: tactics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: tactic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: theoretical
+  conjugates: theoretically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: theoretical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: thesis
+  conjugates: theses
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: thesis'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: undergo
+  conjugates: undergoes,undergoing,undergone,underwent
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: undergo'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: underlie
+  conjugates: underlain,underlay,underlay,underlies,underlying
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: underlie'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: variant
+  conjugates: variants
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: variant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: verse
+  conjugates: versed,verses,versing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: verse'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: vest
+  conjugates: vested,vesting,vests
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: vest'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: viable
+  conjugates: viability,viably
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: viable'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: absorption
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: absorption'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: abundant
+  conjugates: abundantly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: abundant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: acclaim
+  conjugates: acclaimed,acclaiming,acclaims
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: acclaim'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: additive
+  conjugates: additives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: additive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: adhere
+  conjugates: adhered,adheres,adhering
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: adhere'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: aesthetic
+  conjugates: aesthetically,aesthetics,esthetic,esthetically,esthetics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: aesthetic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: affirm
+  conjugates: affirmed,affirming,affirms
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: affirm'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: aloud
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: aloud'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: apex
+  conjugates: apexes,apices
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: apex'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: assertion
+  conjugates: assertions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: assertion'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: auxiliary
+  conjugates: auxiliaries
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: auxiliary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: biodiversity
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: biodiversity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: botanical
+  conjugates: botanically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: botanical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: carbohydrate
+  conjugates: carbohydrates
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: carbohydrate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: compel
+  conjugates: compelled,compelling,compelling,compels
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: compel'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conceptual
+  conjugates: conceptually
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conceptual'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conditional
+  conjugates: conditionally,conditionals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conditional'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: confine
+  conjugates: confined,confines,confining
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: confine'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: constrain
+  conjugates: constrained,constraining,constrains
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: constrain'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: contaminant
+  conjugates: contaminants
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: contaminant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: contend
+  conjugates: contended,contending,contends
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: contend'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: continuum
+  conjugates: continua,continuums
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: continuum'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: corrosion
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: corrosion'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: crude
+  conjugates: crudely,crudeness,cruder,crudest
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: crude'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: definitive
+  conjugates: definitively
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: definitive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: deliberate
+  conjugates: deliberated,deliberately,deliberateness,deliberates,deliberating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: deliberate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: devise
+  conjugates: devised,devises,devising
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: devise'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: dictate
+  conjugates: dictated,dictates,dictating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: dictate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: discrepancy
+  conjugates: discrepancies
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: discrepancy'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: displacement
+  conjugates: displacements
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: displacement'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: distinctive
+  conjugates: distinctively,distinctiveness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: distinctive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: diversion
+  conjugates: diversions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: diversion'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: dosage
+  conjugates: dosages
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: dosage'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: drought
+  conjugates: droughts,drouth,drouths
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: drought'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: emergence
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: emergence'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: emit
+  conjugates: emits,emitted,emitting
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: emit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: empirical
+  conjugates: empirically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: empirical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: erosion
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: erosion'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: evolutionary
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: evolutionary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: examiner
+  conjugates: examiners
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: examiner'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: fluorescent
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: fluorescent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: forensic
+  conjugates: forensically,forensics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: forensic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: formulate
+  conjugates: formulated,formulates,formulating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: formulate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: gale
+  conjugates: gales
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: gale'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: glucose
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: glucose'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: hamper
+  conjugates: hampered,hampering,hampers
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: hamper'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: holistic
+  conjugates: holistically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: holistic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: humanitarian
+  conjugates: humanitarians
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: humanitarian'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ideology
+  conjugates: ideologies
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ideology'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: imagery
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: imagery'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: immunity
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: immunity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: implicit
+  conjugates: implicitly,implicitness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: implicit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inability
+  conjugates: inabilities
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inability'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inference
+  conjugates: inferences
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inference'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inflammatory
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inflammatory'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inherent
+  conjugates: inherently
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inherent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inhibit
+  conjugates: inhibited,inhibiting,inhibits
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inhibit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: insufficient
+  conjugates: insufficiently
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: insufficient'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: invasive
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: invasive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: lien
+  conjugates: liens
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: lien'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: mammal
+  conjugates: mammals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: mammal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: manifest
+  conjugates: manifested,manifesting,manifestly,manifests
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: manifest'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: marginal
+  conjugates: marginally,marginals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: marginal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: metabolic
+  conjugates: metabolically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: metabolic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: motif
+  conjugates: motifs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: motif'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: neural
+  conjugates: neurally
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: neural'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: notorious
+  conjugates: notoriously
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: notorious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: objectionable
+  conjugates: objectionably
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: objectionable'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: oblige
+  conjugates: obliged,obliges,obliging,obligingly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: oblige'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: obstacle
+  conjugates: obstacles
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: obstacle'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: philosopher
+  conjugates: philosophers
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: philosopher'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: philosophical
+  conjugates: philosophically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: philosophical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: prestige
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: prestige'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: primer
+  conjugates: primers
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: primer'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: proceeds -> [proceed]
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: proceeds -> [proceed]'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: proportional
+  conjugates: proportionally
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: proportional'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: prosperity
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: prosperity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: proton
+  conjugates: protons
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: proton'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: proximity
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: proximity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: radioactive
+  conjugates: radioactively
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: radioactive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: redundant
+  conjugates: redundantly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: redundant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: referendum
+  conjugates: referenda,referendums
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: referendum'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: reliance
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: reliance'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: retrieval
+  conjugates: retrievals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: retrieval'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: scenic
+  conjugates: scenically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: scenic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: sequential
+  conjugates: sequentially
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: sequential'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: socialist
+  conjugates: socialists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: socialist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: solicit
+  conjugates: solicited,soliciting,solicits
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: solicit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: sovereign
+  conjugates: sovereigns
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: sovereign'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: spontaneous
+  conjugates: spontaneously
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: spontaneous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: spur
+  conjugates: spurred,spurring,spurs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: spur'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: stark
+  conjugates: starker,starkest,starkly,starkness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: stark'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: susceptible
+  conjugates: susceptibility,susceptibility
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: susceptible'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: systematic
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: systematic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: tentative
+  conjugates: tentatively,tentativeness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: tentative'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: terminology
+  conjugates: terminologies
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: terminology'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: terrain
+  conjugates: terrains
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: terrain'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: tout
+  conjugates: touted,touting,touts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: tout'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: vein
+  conjugates: veined,veining,veins
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: vein'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: verdict
+  conjugates: verdicts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: verdict'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: versatile
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: versatile'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: vivid
+  conjugates: vivider,vividest,vividly,vividness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: vivid'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: widespread
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: widespread'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: absurd
+  conjugates: absurder,absurdest,absurdly,absurdness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: absurd'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ambiguity
+  conjugates: ambiguities
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ambiguity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: analogous
+  conjugates: analogously,analogousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: analogous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: analogy
+  conjugates: analogies
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: analogy'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: anatomical
+  conjugates: anatomically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: anatomical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: anecdote
+  conjugates: anecdota,anecdotes
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: anecdote'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: anesthesia
+  conjugates: anaesthesia
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: anesthesia'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: asteroid
+  conjugates: asteroids
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: asteroid'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: authoritative
+  conjugates: authoritatively,authoritativeness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: authoritative'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: avoidance
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: avoidance'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: biochemical
+  conjugates: biochemically,biochemicals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: biochemical'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: cautious
+  conjugates: cautiously,cautiousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: cautious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: celestial
+  conjugates: celestially
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: celestial'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: censor
+  conjugates: censored,censoring,censors
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: censor'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: coincide
+  conjugates: coincided,coincides,coinciding
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: coincide'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: commend
+  conjugates: commended,commending,commends
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: commend'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: commentator
+  conjugates: commentators
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: commentator'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: communal
+  conjugates: communally
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: communal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: compelling -> [compel]
+  conjugates: compellingly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: compelling -> [compel]'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: concur
+  conjugates: concurred,concurring,concurs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: concur'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conformity
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conformity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conjecture
+  conjugates: conjectured,conjectures,conjecturing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conjecture'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: contradict
+  conjugates: contradicted,contradicting,contradicts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: contradict'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: corrective
+  conjugates: correctives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: corrective'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: cosmopolitan
+  conjugates: cosmopolitans
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: cosmopolitan'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: deceive
+  conjugates: deceived,deceives,deceiving,deceivingly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: deceive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: deception
+  conjugates: deceptions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: deception'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: decisive
+  conjugates: decisively,decisiveness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: decisive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: demolish
+  conjugates: demolished,demolishes,demolishing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: demolish'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: denounce
+  conjugates: denounced,denounces,denouncing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: denounce'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: diffuse
+  conjugates: diffused,diffusely,diffuseness,diffuses,diffusing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: diffuse'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: diligence
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: diligence'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: discern
+  conjugates: discerned,discerning,discerningly,discerns
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: discern'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: discretionary
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: discretionary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: disguise
+  conjugates: disguised,disguises,disguising
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: disguise'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: dissolution
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: dissolution'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: drastic
+  conjugates: drastically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: drastic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: dredge
+  conjugates: dredged,dredges,dredging
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: dredge'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: elicit
+  conjugates: elicited,eliciting,elicits
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: elicit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: emulate
+  conjugates: emulated,emulates,emulating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: emulate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: equate
+  conjugates: equated,equates,equating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: equate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: erroneous
+  conjugates: erroneously
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: erroneous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: exert
+  conjugates: exerted,exerting,exerts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: exert'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: extinction
+  conjugates: extinctions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: extinction'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: faulty
+  conjugates: faultier,faultiest,faultily,faultiness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: faulty'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: flourish
+  conjugates: flourished,flourishes,flourishing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: flourish'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: forego -> [forgo]
+  conjugates: foregoes,forgo,foregoing,forgo,foregone,forgo,forewent,forgo
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: forego -> [forgo]'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: fragile
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: fragile'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: heed
+  conjugates: heeded,heedful,heedfully,heeding,heedless,heedlessly,heedlessness,heeds
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: heed'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: hinder
+  conjugates: hindered,hindering,hinders
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: hinder'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: hymn
+  conjugates: hymned,hymning,hymns
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: hymn'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: immersion
+  conjugates: immersions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: immersion'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: imperative
+  conjugates: imperatively,imperatives
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: imperative'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: indefinite
+  conjugates: indefinitely,indefiniteness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: indefinite'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inhabit
+  conjugates: inhabited,inhabiting,inhabits
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inhabit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: instantaneous
+  conjugates: instantaneously
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: instantaneous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: intermediary
+  conjugates: intermediaries
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: intermediary'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: irrelevant
+  conjugates: irrelevantly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: irrelevant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: lament
+  conjugates: lamented,lamenting,laments
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: lament'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: lax
+  conjugates: laxer,laxest,laxly,laxness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: lax'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: longevity
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: longevity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: metaphor
+  conjugates: metaphors
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: metaphor'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: microbial
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: microbial'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: monarch
+  conjugates: monarchs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: monarch'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: morale
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: morale'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: multinational
+  conjugates: multinationals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: multinational'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: muster
+  conjugates: mustered,mustering,musters
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: muster'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: naturalist
+  conjugates: naturalists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: naturalist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: neutron
+  conjugates: neutrons
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: neutron'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: outright
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: outright'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: paradox
+  conjugates: paradoxes
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: paradox'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: permissible
+  conjugates: permissibly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: permissible'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pigment
+  conjugates: pigmented,pigments
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pigment'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: piracy
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: piracy'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: plausible
+  conjugates: plausibility,plausibly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: plausible'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: plural
+  conjugates: plurals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: plural'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pragmatic
+  conjugates: pragmatics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pragmatic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: predecessor
+  conjugates: predecessors
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: predecessor'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: preside
+  conjugates: presided,presides,presiding
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: preside'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: primate
+  conjugates: primates
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: primate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pristine
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pristine'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: proponent
+  conjugates: proponents
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: proponent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: purge
+  conjugates: purged,purges,purging
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: purge'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: putative
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: putative'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: rash
+  conjugates: rasher,rasher,rashes,rashest,rashly,rashness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: rash'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: realism
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: realism'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: recession
+  conjugates: recessions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: recession'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: reconstruct
+  conjugates: reconstructed,reconstructing,reconstructs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: reconstruct'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: recount
+  conjugates: recounted,recounting,recounts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: recount'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: refrain
+  conjugates: refrained,refraining,refrains
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: refrain'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: resent
+  conjugates: resented,resentful,resentfully,resentfulness,resenting,resents
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: resent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: reversal
+  conjugates: reversals
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: reversal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: rhetoric
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: rhetoric'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: sanitation
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: sanitation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: secretion
+  conjugates: secretions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: secretion'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: sever
+  conjugates: severed,severing,severs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: sever'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: skim
+  conjugates: skimmed,skimming,skims
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: skim'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: societal
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: societal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: sprawl
+  conjugates: sprawled,sprawling,sprawls
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: sprawl'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: stratum
+  conjugates: strata,stratums
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: stratum'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: subversion
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: subversion'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: succession
+  conjugates: successions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: succession'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: thematic
+  conjugates: thematically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: thematic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: toxin
+  conjugates: toxins
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: toxin'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ultraviolet
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ultraviolet'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: unprecedented
+  conjugates: unprecedentedly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: unprecedented'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: urgency
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: urgency'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: vigorous
+  conjugates: vigorously
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: vigorous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: withstand
+  conjugates: withstanding,withstands,withstood
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: withstand'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: abduct
+  conjugates: abducted,abducting,abducts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: abduct'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: admissible
+  conjugates: admissibility,admissibly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: admissible'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: advantageous
+  conjugates: advantageously
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: advantageous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ailment
+  conjugates: ailments
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ailment'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: allude
+  conjugates: alluded,alludes,alluding
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: allude'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: amphibian
+  conjugates: amphibians
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: amphibian'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: anthropologist
+  conjugates: anthropologists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: anthropologist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: archaeologist
+  conjugates: archaeologists,archeologist,archeologists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: archaeologist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: cellulose
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: cellulose'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: circumvent
+  conjugates: circumvented,circumventing,circumvents
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: circumvent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: combatant
+  conjugates: combatants
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: combatant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: commensurate
+  conjugates: commensurately
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: commensurate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: commonplace
+  conjugates: commonplaces
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: commonplace'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conclusive
+  conjugates: conclusively,conclusiveness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conclusive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conducive
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conducive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conglomerate
+  conjugates: conglomerated,conglomerates,conglomerating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conglomerate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conscientious
+  conjugates: conscientiously,conscientiousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conscientious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: counteract
+  conjugates: counteracted,counteracting,counteracts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: counteract'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: decipher
+  conjugates: deciphered,deciphering,deciphers
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: decipher'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: deduce
+  conjugates: deduced,deduces,deducing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: deduce'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: delinquent
+  conjugates: delinquently,delinquents
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: delinquent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: detract
+  conjugates: detracted,detracting,detracts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: detract'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: devoid
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: devoid'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: disparate
+  conjugates: disparately
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: disparate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: disproportionate
+  conjugates: disproportionately
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: disproportionate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: embellish
+  conjugates: embellished,embellishes,embellishing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: embellish'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: endemic
+  conjugates: endemically,endemics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: endemic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: environmentalist
+  conjugates: environmentalists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: environmentalist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: erratic
+  conjugates: erratically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: erratic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: espionage
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: espionage'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: evade
+  conjugates: evaded,evades,evading
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: evade'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: exemplify
+  conjugates: exemplified,exemplifies,exemplifying
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: exemplify'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: foresight
+  conjugates: foresighted,foresightedness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: foresight'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: fray
+  conjugates: frayed,fraying,frays
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: fray'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: gallop
+  conjugates: galloped,galloping,gallops
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: gallop'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: gratify
+  conjugates: gratified,gratifies,gratifying,gratifyingly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: gratify'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: harmonious
+  conjugates: harmoniously,harmoniousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: harmonious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: hesitant
+  conjugates: hesitantly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: hesitant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: humid
+  conjugates: humider,humidest,humidly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: humid'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: illustrative
+  conjugates: illustratively
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: illustrative'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: impetus
+  conjugates: impetuses
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: impetus'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inadvertent
+  conjugates: inadvertently
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inadvertent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: individuality
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: individuality'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inertia
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inertia'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: influx
+  conjugates: influxes
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: influx'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ingenious
+  conjugates: ingeniously,ingeniousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ingenious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ingest
+  conjugates: ingested,ingesting,ingests
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ingest'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: innate
+  conjugates: innately,innateness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: innate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: intuit
+  conjugates: intuited,intuiting,intuits
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: intuit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inventive
+  conjugates: inventively,inventiveness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inventive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: linguist
+  conjugates: linguists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: linguist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: mulch
+  conjugates: mulched,mulches,mulching
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: mulch'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: narration
+  conjugates: narrations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: narration'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: necessitate
+  conjugates: necessitated,necessitates,necessitating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: necessitate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: noncompliance
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: noncompliance'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: objectivity
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: objectivity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: overdue
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: overdue'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: panelist
+  conjugates: panelists,panellist,panellists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: panelist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: patronage
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: patronage'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: penal
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: penal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pharmacological
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pharmacological'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: plagiarism
+  conjugates: plagiarisms
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: plagiarism'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: precondition
+  conjugates: preconditioned,preconditioning,preconditions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: precondition'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: protagonist
+  conjugates: protagonists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: protagonist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ramification
+  conjugates: ramifications
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ramification'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: recyclable
+  conjugates: recyclables
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: recyclable'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: refute
+  conjugates: refuted,refutes,refuting
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: refute'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: revitalize
+  conjugates: revitalise,revitalised,revitalises,revitalising,revitalized,revitalizes,revitalizing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: revitalize'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: rigor
+  conjugates: rigors,rigour,rigours
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: rigor'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: riparian
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: riparian'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: salient
+  conjugates: saliently,salients
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: salient'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: socioeconomic
+  conjugates: socioeconomically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: socioeconomic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: taint
+  conjugates: tainted,tainting,taints
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: taint'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: tectonic
+  conjugates: tectonics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: tectonic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: theorist
+  conjugates: theorists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: theorist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: underpin
+  conjugates: underpinned,underpinning,underpinning,underpins
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: underpin'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: unforeseen
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: unforeseen'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: varnish
+  conjugates: varnished,varnishes,varnishing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: varnish'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: accede
+  conjugates: acceded,accedes,acceding
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: accede'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: acquit
+  conjugates: acquits,acquitted,acquitting
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: acquit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: amass
+  conjugates: amassed,amasses,amassing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: amass'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: amorphous
+  conjugates: amorphously,amorphousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: amorphous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: anarchism
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: anarchism'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ardent
+  conjugates: ardently
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ardent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: bombard
+  conjugates: bombarded,bombarding,bombards
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: bombard'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: burdensome
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: burdensome'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: capricious
+  conjugates: capriciously,capriciousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: capricious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: centaur
+  conjugates: centaurs
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: centaur'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: civility
+  conjugates: civilities
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: civility'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: commonsense
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: commonsense'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: complacent
+  conjugates: complacently
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: complacent'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: comprehensible
+  conjugates: comprehensibility,comprehensibly
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: comprehensible'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: congest
+  conjugates: congested,congesting,congests
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: congest'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: conundrum
+  conjugates: conundrums
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: conundrum'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: convoluted
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: convoluted'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: cynic
+  conjugates: cynics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: cynic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: decimate
+  conjugates: decimated,decimates,decimating
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: decimate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: detriment
+  conjugates: detriments
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: detriment'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: dialectic
+  conjugates: dialectics
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: dialectic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: distillation
+  conjugates: distillations
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: distillation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ecologist
+  conjugates: ecologists
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ecologist'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: egregious
+  conjugates: egregiously,egregiousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: egregious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: engender
+  conjugates: engendered,engendering,engenders
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: engender'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: ethnographic
+  conjugates: ethnographically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: ethnographic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: evaluative
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: evaluative'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: extraterrestrial
+  conjugates: extraterrestrials
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: extraterrestrial'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: fissure
+  conjugates: fissures
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: fissure'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: illegitimate
+  conjugates: illegitimately
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: illegitimate'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: imbue
+  conjugates: imbued,imbues,imbuing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: imbue'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inconclusive
+  conjugates: inconclusively,inconclusiveness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inconclusive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: indignation
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: indignation'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: indistinguishable
+  conjugates: indistinguishably
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: indistinguishable'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inductance
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inductance'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: inequity
+  conjugates: inequities
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: inequity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: injurious
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: injurious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: intricacy
+  conjugates: intricacies
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: intricacy'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: metabolize
+  conjugates: metabolise,metabolised,metabolises,metabolising,metabolized,metabolizes,metabolizing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: metabolize'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: milieu
+  conjugates: milieus,milieux
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: milieu'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: mishap
+  conjugates: mishaps
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: mishap'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: misinterpret
+  conjugates: misinterpreted,misinterpreting,misinterprets
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: misinterpret'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: noxious
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: noxious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: nullify
+  conjugates: nullified,nullifies,nullifying
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: nullify'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: olfactory
+  conjugates: olfactories
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: olfactory'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: onerous
+  conjugates: onerously,onerousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: onerous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: overarching
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: overarching'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: palpable
+  conjugates: palpably
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: palpable'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: philanthropic
+  conjugates: philanthropically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: philanthropic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: plankton
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: plankton'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: populous
+  conjugates: populousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: populous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: predispose
+  conjugates: predisposed,predisposes,predisposing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: predispose'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: preponderance
+  conjugates: preponderances
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: preponderance'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: prohibitive
+  conjugates: prohibitively
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: prohibitive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: quintessential
+  conjugates: quintessentially
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: quintessential'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: rebut
+  conjugates: rebuts,rebutted,rebutting
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: rebut'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: reprimand
+  conjugates: reprimanded,reprimanding,reprimands
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: reprimand'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: socialization
+  conjugates: socialisation
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: socialization'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: squeaky
+  conjugates: squeakier,squeakiest,squeakily,squeakiness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: squeaky'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: superfluous
+  conjugates: superfluously,superfluousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: superfluous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: supplant
+  conjugates: supplanted,supplanting,supplants
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: supplant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: supposition
+  conjugates: suppositions
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: supposition'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: tacit
+  conjugates: tacitly,tacitness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: tacit'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: unionize
+  conjugates: unionise,unionised,unionises,unionising,unionized,unionizes,unionizing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: unionize'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: unregulated
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: unregulated'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: utilitarian
+  conjugates: utilitarians
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: utilitarian'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: utopian
+  conjugates: utopians
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: utopian'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: virtuoso
+  conjugates: virtuosi,virtuosos
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: virtuoso'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: adduce
+  conjugates: adduced,adduces,adducing
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: adduce'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: altruistic
+  conjugates: altruistically
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: altruistic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: animosity
+  conjugates: animosities
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: animosity'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: archetypal
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: archetypal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: attitudinal
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: attitudinal'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: carnivorous
+  conjugates: carnivorously,carnivorousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: carnivorous'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: cartographer
+  conjugates: cartographers
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: cartographer'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: climactic
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: climactic'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: compatriot
+  conjugates: compatriots
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: compatriot'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: deride
+  conjugates: derided,derides,deriding
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: deride'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: disenchant
+  conjugates: disenchanted,disenchanting,disenchants
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: disenchant'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: dissuade
+  conjugates: dissuaded,dissuades,dissuading
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: dissuade'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: encrust
+  conjugates: encrusted,encrusting,encrusts,incrust,incrusted,incrusting,incrusts
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: encrust'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: epithet
+  conjugates: epithets
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: epithet'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: expository
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: expository'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: gridlock
+  conjugates: gridlocked,gridlocks
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: gridlock'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: hyperbole
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: hyperbole'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: immediacy
+  conjugates: immediacies
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: immediacy'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: impropriety
+  conjugates: improprieties
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: impropriety'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: misinform
+  conjugates: misinformed,misinforming,misinforms
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: misinform'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pernicious
+  conjugates: perniciously,perniciousness
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pernicious'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pessimism
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pessimism'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: psychoactive
+  conjugates: 
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: psychoactive'
+  bundle_id: 
+--- !ruby/object:Word
+attributes:
+  id:
+  headword: pummel
+  conjugates: pommel,pommel,pommeled,pommeling,pommelled,pommelling,pommels,pommel,pummeled,pummeling,pummelled,pummelling,pummels
+  created_at:
+  updated_at:
+  hint: ! 'This is a hint: pummel'
+  bundle_id: 

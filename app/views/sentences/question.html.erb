@@ -1,0 +1,32 @@
+<script type="text/javascript">
+  var answer = "<%= @word.headword %>";
+</script>
+Read all the hints. Then pick the correct answer. And if you want the definition, you'll have to look it up your own damn self.
+<br/>
+<br/>
+<%= @sentence.to_s %>
+
+<br/>
+<br/>
+
+<div id="choices">
+  <% @bait.each_with_index do |b, i| %>
+    <div class="answer"  hint="<%= b.hint %>">
+      <input type="radio" name="question" value="<%= b.headword %>"/>
+        <%= ANSWER_CHOICES[i] -%>. <label for="question"><%= b.headword %>
+        </label>
+      </div>
+    <br/>
+  <% end %>
+</div>
+
+<div id="hint">
+  
+</div>
+
+<div id="grade">
+  Grade!
+</div>
+
+<div id="next">
+</div>

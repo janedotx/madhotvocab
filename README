@@ -1,0 +1,12 @@
+useless columns:
+table: users
+column: salt
+because bcrypt-ruby handles salting for you.
+
+
+TODO
+add "correct answer" to analogies, sentences, and basket chronicle
+use validation to make sure such answers go with the word they belong to i.e. are the headword or the conjugate
+
+
+jquery val() vs text()?
