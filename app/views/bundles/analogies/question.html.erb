@@ -1,33 +1,44 @@
 <script type="text/javascript">
   var answer = "<%= @word.headword %>";
 </script>
-Read all the hints. Then pick the correct answer. And if you want the definition, you'll have to look it up your own damn self.
-<br/>
-<br/>
-<%= @analogy.root.upcase %> is to ____ as ____ is to ____.
 
-<br/>
-<br/>
+<%= render "bundles/progress_bar"  %>
 
-<div id="choices">
-  <% @bait.each_with_index do |b, i| %>
-    <div class="answer">
-      <input type="checkbox" name="question" value="<%= b %>"/>
-        <%= ANSWER_CHOICES[i] -%>. <label for="question"><%= b %>
-        </label>
-      </div>
+<div class="grid_9" id="question_content">
     <br/>
-  <% end %>
-</div>
+    <table id="analogy_table">
+      <tr>
+        <td>
+          <span class="analogy"><%= @analogy.root.upcase %> </span>
+        </td> 
+        <td> 
+          : <span id="root_target" class="analogy answer-slot"></span>
+        </td> 
+      </tr>
+      <tr>
+        <td> 
+          <span id="second_source" class="analogy answer-slot"></span>
+        </td>  
+        <td>  
+          : <span id="second_target" class="analogy answer-slot"></span>
+        </td>  
+      </tr>
+    </table>
+    <br/>
+    <br/>
 
-<div id="hint">
-  
+    <div id="choices">
+      <% @bait.each_with_index do |b, i| %>
+            <% id = nil %>
+            <% id = "root_target_answer" if b == @analogy.root_target %>
+            <% id = "second_source_answer" if b == @analogy.second_source %>
+            <% id = "second_target_answer" if b == @analogy.second_target %>
+            <span class="answer-home <%= "special" if b == @analogy.second_target %>">
+              <span <%= "id=#{id}" if id.present? %> class="analogies-answer"><%= b %></span>
+            </span>
+            <% if i == (@bait.size / 2) %>
+              <br/>
+            <% end %>
+      <% end %>
+    </div>
 </div>
-
-<div id="grade">
-  Grade!
-</div>
-
-<div id="next">
-</div>
-

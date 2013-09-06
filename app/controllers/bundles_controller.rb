@@ -1,12 +1,23 @@
 class BundlesController < ApplicationController
+  before_filter :set_word 
+
   def index
-    @word = Word.find(@user.bundle_progress.preview_next_word)
+    render :text => "nothing here yet"
+  end
+
+  def sentences
     set_sentence_vars
     ask_sentence
   end
 
+  def check
+    # TODO get a before_filter for this
+    @sentence = Sentence.find(params[:id].to_i)
+    @answer = params[:word]
+    render json: @sentence.check(@answer)
+  end
+
   def analogies
-    @word = Word.find(@user.bundle_progress.preview_next_word)
     @analogy = @word.analogy
     @bait = []
     while @bait.size < NUM_ANSWER_CHOICES
@@ -27,6 +38,10 @@ class BundlesController < ApplicationController
   end
 
   private
+
+  def set_word
+    @word = Word.find(@user.bundle_progress.preview_next_word)
+  end
 
   def ask_sentence
     render "bundles/sentences/question"
