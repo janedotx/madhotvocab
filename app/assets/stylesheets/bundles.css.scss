@@ -42,3 +42,81 @@ img {
   padding-top: 30px;
   font-size: 20px;
 }
+
+.analogies-answer {
+}
+
+#grade {
+  width: 60px;
+  background-color: yellow;
+}
+
+.analogy {
+  width: 200px;
+  min-height: 22px;
+  display: inline-block;
+}
+
+
+.answer-slot {
+  border: dotted;
+  border-color: #999999;
+  border-width: 1px;
+}
+
+.analogies-answer {
+  display: inline-block;
+  padding: 5px;
+}
+
+.correct {
+  background-color: #D0EBB7;
+}
+
+#question_content {
+  text-align: center;
+}
+
+#question_content p {
+  font-size: 12px;
+}
+
+#analogy_table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+#question_content {
+  padding: 10px;
+  position: relative;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+
+}
+
+.progress_bar_container {
+  height: auto;
+  position: absolute;
+  background-color: yellow;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+*/
+
+
+#progress_bar {
+  padding: 10px;
+  border-right: 1px;
+  border-right-style: solid;
+  height: 200px;
+}
+
+.special {
+/*  background-color: red;
+*/
+}
