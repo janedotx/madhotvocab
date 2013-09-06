@@ -15,3 +15,6 @@
 /tmp
 
 *.sw?
+*.swp
+*.swo
+db/*.swp
